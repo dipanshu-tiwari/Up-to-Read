@@ -1,4 +1,4 @@
-<h2 align="center">Hii There, I am Dipanshu Tiwari</h2>
+<h1 align="center">Hii There, I am Dipanshu Tiwari</h1>
 <h2></h2>
 <h2>Disclaimer !!!</h2>
 <h2></h2>
